@@ -4,4 +4,4 @@ Hello i am SeoKyung Ha!  I'm aiming to be a data analyst specializing in the fie
 To enhance my ability to provide VALUABLE insights, I am dedicatedly studying Statistics, Machine Learning, and MLOps. <br><br>
 Moreover, I'm actively participating in various projects and competitions, building a solid foundation of practical skills. <br><br>
 Currently, I am seeking opportunities to leverage my skills as a data analyst.<br><br>
-Let's collaborate, share ideas, and fearlessly take on challenges together! ### If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung"><img src="https://img.shields.io/badge/SLICE-002E5F?style=plastic&logo=NFC&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung">
+Let's collaborate, share ideas, and fearlessly take on challenges together! If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung"><img src="https://img.shields.io/badge/SLICE-002E5F?style=plastic&logo=NFC&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung">
