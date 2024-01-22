@@ -3,21 +3,21 @@
 
 Hello, I'm SeoKyung Ha! Aspiring Data Analyst in e-commerce or finance, dedicatedly studying and actively participating in projects. <br><br>
 I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessly take on challenges together!<br><br>
-If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung" target="_blank"><img src="https://img.shields.io/badge/SLICE-002E5F?style=plastic&logo=NFC&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung">
+### If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung" target="_blank"><img src="https://img.shields.io/badge/SLICE-002E5F?style=plastic&logo=NFC&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung">
 
 <div align=center><h2>🛠 Tech - Skills </h2></div>
 <div align=center><h4> Consummate skills </h4></div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+<div align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"></div>
 
 <div align=center><h4> Applicable skills </h4></div>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
+<div align=center><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></div>
 
 <div align=center><h4> Comprehensible skills </h4></div>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+<div align=center><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></div>
 
-<div align=center>I have documented what I honed on my   <a href="https://blinding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://blinding.tistory.com/"/></a></div>
+<div align=center><h3>I have documented what I honed on my   <a href="https://blinding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://blinding.tistory.com/"/></a></h3></div>
 
 ### 📚 Education
 |기간|소속|전공|학위|
