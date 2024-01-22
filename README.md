@@ -24,14 +24,14 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 |기간|소속|전공|학위|
 |:---:|:---:|:---:|:---:|
-|&ensp;&ensp;&ensp; 2020년 3월 ~ 2024년 8월 &ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;국민대학교&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;AI빅데이터융합경영학과&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;심화전공&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|
+|&ensp;&ensp;&ensp;&#160; 2020년 3월 ~ 2024년 8월 &#160;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;국민대학교&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;AI빅데이터융합경영학과&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;심화전공&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|
 
 
 <div align=center><h1>📜 License</h1></div>
 
 |자격명|취득년월|관할기관|비고|
 |:---:|:---:|:---:|:---:|
-|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;데이터분석준전문가&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021년 12월&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;한국데이터산업진흥원&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|  |
+|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&#160;데이터분석준전문가&#160;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021년 12월&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;한국데이터산업진흥원&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|  |
 |데이터분석전문가|2022년 11월|한국데이터산업진흥원|&ensp;&ensp;&ensp;&ensp;필기&ensp;&ensp;&ensp;&ensp;|
 |SQL 개발자|2023년  7월|한국데이터산업진흥원|  |
 
@@ -40,7 +40,7 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 |기간|직장명|부서명|역할|
 |:---:|:---:|:---:|:---:|
-|2023년 8월 ~ 2024년 3월|데이원컴퍼니<br> FastCampus|&ensp;B2B교육사업본부&ensp;|삼성전자 데이터분석, 자동화 교육 질의응답 및 문항 출제|
+|2023년 8월 ~ 2024년 3월|데이원컴퍼니<br> FastCampus|&ensp;&#160;B2B교육사업본부&#160;&ensp;|삼성전자 데이터분석, 자동화 교육 질의응답 및 문항 출제|
 
 
 <div align=center><h2>🏅 Competition</h2></div>
