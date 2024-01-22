@@ -58,7 +58,7 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 |연도|프로젝트명|내용|역할|링크|
 | :------: | :------: | :------: | :------: | :------: |
-| 2023 | 퀀트 주식 투자 모델 개발 | API&Crowling으로 데이터 수집, 등감 구간 예측 모델 개발 | 팀장 | [링크](https://github.com/HASEOKYUNG/Quantitative_Stock_Investment) |
+| 2023 | 퀀트 주식 투자 모델 개발 | API&Crowling으로 데이터 수집, 등감 구간 예측 모델 개발 | 개인 | [링크](https://github.com/HASEOKYUNG/Quantitative_Stock_Investment) |
 | 2023 | 제품 해시태그별 감정분석 | 브랜드 아이덴티티 수집, 뇌파 데이터(EEG) 기반 감정분석 | 팀장 |  |
-| 2022 | 매력적인 가상비서 | 텍스트 전처리, 유사도 분석 | 팀장 | |
-| 2021 | RFM을 활용한 실버세대 타겟 마케팅 | 구매매장 및 거래 구분, 고객 세분화 후 군집별 마케팅 방안 마련  | 팀원 | [링크](https://github.com/HASEOKYUNG/CRM_for_SilverGeneration) |
+| 2022 | 매력적인 가상비서 | 텍스트 전처리, 유사도 분석 | 개인 | |
+| 2021 | RFM을 활용한 실버세대 타겟 마케팅 | 구매매장 및 거래 구분, 고객 세분화 후 군집별 마케팅 방안 마련  | 팀장 | [링크](https://github.com/HASEOKYUNG/CRM_for_SilverGeneration) |
