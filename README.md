@@ -5,7 +5,7 @@ Hello, I'm SeoKyung Ha! Aspiring Data Analyst in e-commerce or finance, dedicate
 I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessly take on challenges together!<br><br>
 ### If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung" target="_blank"><img src="https://img.shields.io/badge/SLICE-002E5F?style=plastic&logo=NFC&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung">
 
-<div align=center><header><h1>🛠 Tech - Skills </h1></header></div>
+<div align=center><h1>🛠 Tech - Skills </h1></div>
 <div align=center><h4> Consummate skills </h4></div>
 <div align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"></div>
