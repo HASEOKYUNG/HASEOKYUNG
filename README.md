@@ -19,35 +19,37 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 <div align=center><h3>I have documented what I honed on my   <a href="https://blinding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://blinding.tistory.com/"/></a></h3></div>
 
-### 📚 Education
+<div align=center><h1>📚 Education</h1></div>
 |기간|소속|전공|학위|
 |:---:|:---:|:---:|:---:|
-|2020년&#160;3월&#160;~&#160;2024년&#160;8월|국민대학교|AI빅데이터융합경영학과|심화전공|
+|&ensp;&ensp;&ensp;&ensp;2020년 3월 ~ 2024년 8월&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;국민대학교&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;AI빅데이터융합경영학과&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;심화전공&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|
 
-### 📜 License
+
+<div align=center><h1>📜 License</h1></div>
 |자격명|취득년월|관할기관|비고|
 |:---:|:---:|:---:|:---:|
-|데이터분석준전문가|2021년&#160;12월|한국데이터산업진흥원|&#160;&#160;|
-|데이터분석전문가|2022년&#160;11월|한국데이터산업진흥원|필기|
-|SQL&#160;개발자|2023년&#160;&#160;7월|한국데이터산업진흥원|&#160;&#160;|
+|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;데이터분석준전문가&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021년 12월&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;한국데이터산업진흥원&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|  |
+|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;데이터분석전문가&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;2022년 11월&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;한국데이터산업진흥원&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;필기&ensp;&ensp;&ensp;&ensp;&ensp;|
+|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;SQL 개발자&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;2023년  7월&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;한국데이터산업진흥원&ensp;&ensp;&ensp;&ensp;&ensp;|  |
 
 
-### 💼 Career
+<div align=center><h1>💼 Career</h1></div>
 |기간|직장명|부서명|역할|
 |:---:|:---:|:---:|:---:|
-|2023년&#160;8월&#160;~&#160;2024년&#160;3월|데이원컴퍼니&#160;FastCampus|B2B교육사업본부|삼성전자 데이터분석, 자동화 교육의 질의응답 및 문항 출제|
+|2023년 8월 ~ 2024년 3월|데이원컴퍼니<br> FastCampus|B2B교육사업본부|삼성전자 데이터분석, 자동화 교육 질의응답 및 문항 출제|
 
-### 🏅 Competition
+<div align=center><h1>🏅 Competition</h1></div>
 
 |연도|대회명|내용|역할|링크|
 | :------: | :------: | :------: | :------: | :------: |
 | 2023 | 2023 빅콘테스트 정형 - 어드밴스드 리그 | 좌석 등급 재조정, 예측 예매율에 따른 판매전략 제시 | 팀원 | [링크](https://github.com/HASEOKYUNG/2023_Bigcontest) |
-| 2023 | 2023년 광진구 빅데이터 분석 공모전 | 쓰레기 위험지수 생성, 위험지역 선정 후 해결안 마련 | 팀장 | [링크](https://github.com/HASEOKYUNG/2023_Gwangjingu_BigdataContest) |
+| 2023 | 2023년 광진구 빅데이터 분석 공모전 | 쓰레기 위험지수 개발, 위험지역 선정 후 해결안 마련 | 팀장 | [링크](https://github.com/HASEOKYUNG/2023_Gwangjingu_BigdataContest) |
 | 2022 | 제주도 도로 교통량 예측 AI 경진대회 | 제주도 도로 구간별 평균 속력 예측 | 팀장 | [링크](https://github.com/HASEOKYUNG/Dacon-JejuIsland-RoadTrafficPrediction) |
-| 2022 | 제 7회 롯데멤버스 빅데이터 경진대회 | 고객별 상품 추천 모델 개발, 구매시기 예측, ESG 마일리지 개발 | 팀원 | [링크](https://github.com/HASEOKYUNG/7th-LOTTEMembers-BigDataCompetition) |
+| 2022 | 제 7회 롯데멤버스 빅데이터 경진대회 | 상품 추천 & 구매시기 예측 모델 개발, ESG 마일리지 개발 | 팀원 | [링크](https://github.com/HASEOKYUNG/7th-LOTTEMembers-BigDataCompetition) |
 | 2022 | KML Challenge 2022S | 구매 데이터 기반 성별, 나이대 예측 모델 개발 | 팀장 | [링크](https://github.com/HASEOKYUNG/2022S_KaggleKMLChallenge) |
 
-### 💻  Project
+
+<div align=center><h1>💻  Project</h1></div>
 
 
 |연도|프로젝트명|내용|역할|링크|
