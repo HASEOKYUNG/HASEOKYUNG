@@ -3,21 +3,36 @@
 
 Hello, I'm SeoKyung Ha! Aspiring Data Analyst in e-commerce or finance, dedicatedly studying and actively participating in projects. <br><br>
 I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessly take on challenges together!
-<h4>If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung" target="_blank"><img src="https://img.shields.io/badge/SLICE-002E5F?style=plastic&logo=NFC&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung"></a></h4>
+<h4>If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung" target="_blank"><img src="https://img.shields.io/badge/SLICE-003648?style=plastic&logo=Codementor&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung"></a></h4>
 
 <div align=center><h2>🛠 Tech - Skills </h2></div>
 <div align=center><h4> Consummate skills </h4></div>
-<div align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"></div>
+<div align=center>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/scipy-0442e6?style=flat&logo=scipy&color=midnightblue&logoColor=blue&labelColor=midnightblue/">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+</div>
 
 <div align=center><h4> Applicable skills </h4></div>
-<div align=center><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></div>
+<div align=center>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=MLflow&logoColor=white"/>
+</div>
 
 <div align=center><h4> Comprehensible skills </h4></div>
-<div align=center><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></div>
+<div align=center>
+    <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=DVC&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>
+</div>
 
-<div align=center><h3>I have documented what I honed on my   <a href="https://blinding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://blinding.tistory.com/"/></a></h3></div>
+<div align=center><h3>I have documented what I honed on my   <a href="https://blinding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://blinding.tistory.com/"/></a></h3></div>
 
 
 <div align=center><h1>📚 Education</h1></div>
