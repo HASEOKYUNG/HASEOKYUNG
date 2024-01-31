@@ -55,7 +55,7 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 |기간|직장명|부서명|역할|
 |:---:|:---:|:---:|:---:|
-|2023년 8월 ~ 2024년 3월|&ensp;데이원컴퍼니&ensp;<br> FastCampus|&#160;B2B교육사업본부&#160;|삼성전자 DX 교육(데이터분석, 머신러닝, 자동화 등)<br> 질의응답 및 문항 출제|
+|&ensp;&ensp;&ensp;2023년 8월 ~ 2024년 3월&ensp;&ensp;&ensp;|&ensp;데이원컴퍼니&ensp;<br> FastCampus|&#160;B2B교육사업본부&#160;|삼성전자 DX 교육(데이터분석, 머신러닝, 자동화 등)<br> 질의응답 및 문항 출제|
 
 
 <div align=center><h2>🏅 Competition</h2></div>
