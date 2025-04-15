@@ -39,8 +39,8 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 |기간|소속|전공|학위|
 |:---:|:---:|:---:|:---:|
-|&ensp; 2020년 3월 ~ &ensp;|&ensp;&ensp;&ensp;국민대학교&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;AI빅데이터융합경영학과&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;심화전공&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|
-|2024년 7월 ~ | Google developers| Google for Developers Machine Learning Bootcamp Korea 2024|  |
+| 2020년 3월 ~ 2024년 8월 |&ensp; 국민대학교 &ensp;|&ensp;&ensp;&ensp;AI빅데이터융합경영학과&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp; 심화전공 &ensp;&ensp;&ensp;|
+| 2024년 7월 ~ | Google developers| Google for Developers Machine Learning Bootcamp Korea 2024|  |
 
 
 
