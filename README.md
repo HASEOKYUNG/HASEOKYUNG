@@ -1,7 +1,7 @@
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Welcome&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=This%20is%20SeoKyung'sGithub&descAlignY=70)
 
 
-Hello, I'm SeoKyung Ha! Aspiring Data Analyst in e-commerce or finance, dedicatedly studying and actively participating in projects. <br><br>
+Hello, I'm SeoKyung Ha! Aspiring Data Analyst in e-commerce or recruitment, dedicatedly studying and actively participating in projects. <br><br>
 I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessly take on challenges together!
 <h4>If you want to know more about me, connect with </span><a href="https://myslice.is/@HaSeoKyung" target="_blank"><img src="https://img.shields.io/badge/SLICE-003648?style=plastic&logo=Codementor&color=black&logoColor=white&labelColor=black&link=https://myslice.is/@HaSeoKyung"></a></h4>
 
@@ -64,7 +64,6 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 
 |연도|대회명|내용|역할|링크|
 | :------: | :------: | :------: | :------: | :------: |
-| 2024 | 웹 로그 기반 조회수 예측 해커톤 | 세션별 조회수 예측 | 개인 | [링크](https://github.com/HASEOKYUNG/Dacon-Weblog-based-HitsPrediction) |
 | 2023 | 2023 빅콘테스트 정형 - 어드밴스드 리그 | 좌석 등급 재조정, 예측 예매율에 따른 판매전략 제시 | 팀원 | [링크](https://github.com/HASEOKYUNG/2023_Bigcontest) |
 | 2023 | 2023년 광진구 빅데이터 분석 공모전 | 쓰레기 위험지수 개발, 위험지역 선정 후 해결안 마련 | 팀장 | [링크](https://github.com/HASEOKYUNG/2023_Gwangjingu_BigdataContest) |
 | 2022 | 제주도 도로 교통량 예측 AI 경진대회 | 제주도 도로 구간별 평균 속력 예측 | 팀장 | [링크](https://github.com/HASEOKYUNG/Dacon-JejuIsland-RoadTrafficPrediction) |
@@ -78,5 +77,4 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 | :------: | :------: | :------: | :------: | :------: |
 | 2023 | 퀀트 주식 투자 모델 개발 | API&Crowling으로 데이터 수집, 등감 구간 예측 모델 개발 | 개인 | [링크](https://github.com/HASEOKYUNG/Quantitative_Stock_Investment) |
 | 2023 | 제품 해시태그별 감정분석 | 브랜드 아이덴티티 수집, 뇌파 데이터(EEG) 기반 감정분석 | 팀장 |  |
-| 2022 | 매력적인 가상비서 | 텍스트 전처리, 유사도 분석 | 개인 | |
 | 2021 | RFM을 활용한 실버세대 타겟 마케팅 | 구매매장 및 거래 구분, 고객 세분화 후 군집별 마케팅 방안 마련  | 팀장 | [링크](https://github.com/HASEOKYUNG/CRM_for_SilverGeneration) |
