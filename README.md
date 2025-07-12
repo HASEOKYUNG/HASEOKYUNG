@@ -49,7 +49,6 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 |자격명|취득년월|관할기관|비고|
 |:---:|:---:|:---:|:---:|
 |&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&#160;데이터분석준전문가&#160;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&#160;2021년 12월&#160;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;한국데이터산업진흥원&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;|  |
-|데이터분석전문가|2022년 11월|한국데이터산업진흥원|&ensp;&ensp;&ensp;&ensp; 필기 &ensp;&ensp;&ensp;&ensp;|
 |SQL 개발자|2023년  7월|한국데이터산업진흥원|  |
 
 
