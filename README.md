@@ -40,7 +40,7 @@ I'm seeking opportunities to leverage my skills. Let's collaborate and fearlessl
 |기간|소속|전공|학위|
 |:---:|:---:|:---:|:---:|
 |2020년 3월 ~ 2024년 8월|국민대학교|AI빅데이터융합경영학과|심화전공|
-| 2024년 7월 ~ | Google developers| Google for Developers Machine Learning Bootcamp Korea 2024|  |
+| 2024년 10월 ~ 2024년 11월 | Martinee | Martinee X Amplitude 그로스 캠프 3기|  |
 
 
 
